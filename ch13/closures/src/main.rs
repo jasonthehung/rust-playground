@@ -1,5 +1,3 @@
-use core::num;
-
 enum ShirtColor {
     Red,
     Blue,
